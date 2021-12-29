@@ -1,4 +1,6 @@
-### Hi there 👋 I am Shanmukh ![](bear.gif)
+### Hi there 👋 I am Shanmukh  
+
+<img src="waving.gif" width="100" height="100">
 
 Currently working as Cloud Consultant and learning DevOps
 
