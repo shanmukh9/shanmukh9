@@ -1,4 +1,6 @@
-### Hi there 👋 Shanmukh here working as Cloud Consultant and learning DevOps
+### Hi there 👋 I am Shanmukh ![](bear.gif)
+
+Currently working as Cloud Consultant and learning DevOps
 
 <!--
 **shanmukh9/shanmukh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
