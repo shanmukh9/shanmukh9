@@ -12,7 +12,7 @@
 
 
 My Github Stats:
-https://github-readme-stats.vercel.app/api?username=shanmukh9&theme=algolia&show_icons=true&count_private=true
+![Github stats] (https://github-readme-stats.vercel.app/api?username=shanmukh9&theme=algolia&show_icons=true&count_private=true)
 
 
 
