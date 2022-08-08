@@ -11,8 +11,7 @@
 📫 How to reach me: yalavarthisainadh@gmail.com
 
 
-My Github Stats:
-![Github stats] (https://github-readme-stats.vercel.app/api?username=shanmukh9&theme=algolia&show_icons=true&count_private=true)
+![Shanmukh GitHub stats](https://github-readme-stats.vercel.app/api?username=shanmukh9&show_icons=true&theme=radical)
 
 
 
