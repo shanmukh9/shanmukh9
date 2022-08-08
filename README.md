@@ -2,7 +2,22 @@
 
 <img src="waving.gif" width="100" height="100">
 
-Currently working as Cloud Consultant and learning DevOps
+🔭 I’m currently working as DevOps Cloud Consultant
+
+🌱 I’m currently learning DevOps tools
+
+👯 I’m looking to collaborate on open source projects/ideas in Cloud or DevOps fields
+
+📫 How to reach me: yalavarthisainadh@gmail.com
+
+
+My Github Stats:
+https://github-readme-stats.vercel.app/api?username=shanmukh9&theme=algolia&show_icons=true&count_private=true
+
+
+
+
+
 
 <!--
 **shanmukh9/shanmukh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
