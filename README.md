@@ -2,7 +2,7 @@
 
 <img src="waving.gif" width="100" height="100">
 
-🔭 I’m currently working as DevOps Cloud Consultant
+🔭 I’m currently working as DevOps Engineer
 
 🌱 I’m currently learning DevOps tools
 
