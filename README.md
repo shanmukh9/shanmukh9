@@ -2,11 +2,11 @@
 
 <img src="waving.gif" width="100" height="100">
 
-🔭 I’m currently working as DevOps Engineer
+🔭 I’m currently working as DevOps Engineer and aspired to be AIOps Engineer
 
-🌱 I’m currently learning DevOps tools
+🌱 I’m currently learning AI tools and experimenting GENAI
 
-👯 I’m looking to collaborate on open source projects/ideas in Cloud or DevOps fields
+👯 I’m looking to collaborate on open source projects/ideas in AI domain
 
 📫 How to reach me: yalavarthisainadh@gmail.com
 
