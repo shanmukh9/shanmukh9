@@ -2,9 +2,9 @@
 
 <img src="waving.gif" width="100" height="100">
 
-🔭 I’m currently working as DevOps Engineer and aspired to be AIOps Engineer
+🔭 I’m currently working as Sr.DevOps Engineer and aspired to be AIOps Engineer / AI Engineer
 
-🌱 I’m currently learning AI tools and experimenting GENAI
+🌱 I’m currently dabbling with multiple GENAI tools and building Agentic AI solutions
 
 👯 I’m looking to collaborate on open source projects/ideas in AI domain
 
